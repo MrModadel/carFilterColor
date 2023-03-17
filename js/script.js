@@ -4,8 +4,8 @@ let textPrice = document.querySelector('.rg-block__title');
 let price = 89990;
 let mapImg = {
    '0': 'url(./img/one.png)',
-   '2000': 'url(./img/two.png)',
-   '1000': 'url(./img/tre.png)'
+   '2000': 'url(./img/two.jpg)',
+   '1000': 'url(./img/tre.jpg)'
 }
 labelColor.forEach(item => {
    item.onclick = () => {
